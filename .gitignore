@@ -1,11 +1,8 @@
 #Local TF DIRS
-*/.terraform/*
+.terraform
+terraform.tfstate
+terraform.tfvars
+.terraform.lock.hcl
 #.tfstate files
-*.tfstate
-*.tfstate.*
+*.tfstate*
 
-#Crash log files
-crash.log
-
-#.tfvars files
-*.tfvars
