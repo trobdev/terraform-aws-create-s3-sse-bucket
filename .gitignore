@@ -1,9 +1,7 @@
 #Local TF DIRS
-.terraform
+*.terraform
 terraform.tfstate
 terraform.tfvars
 .terraform.lock.hcl
 #.tfstate files
 *.tfstate*
-
-.terraform
