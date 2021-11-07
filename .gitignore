@@ -1,4 +1,5 @@
 #Local TF DIRS
+.terraform
 *.terraform
 terraform.tfstate
 terraform.tfvars
